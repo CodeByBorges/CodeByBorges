@@ -7,7 +7,7 @@
 
 
 
-![Borges Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByBorges&hide_progress)
+![Borges Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByBorges&hide_progress=true)
 <hr>
 
 
